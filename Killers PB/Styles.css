@@ -1,0 +1,117 @@
+.mainLogo {
+  display: block;
+  margin: auto;
+  width: 50%;
+  padding-bottom: 2rem;
+}
+
+.MainLogoOne {
+  padding-top: 5rem;
+  padding-right: 0%;
+}
+
+.sectionTwo {
+  padding-left: 0%;
+}
+
+.ShoppingCard {
+  display: block;
+  margin: auto;
+}
+
+/************   FOOTER   **********/
+.MvpsLogo {
+  width: 20%;
+  margin: 2rem;
+  padding-right: 2rem;
+}
+.NxlLogo {
+  width: 20%;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.JtLogo {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.footer {
+  margin: auto;
+  display: block;
+  background-color: #808080;
+}
+
+.FooterImg {
+  width: 40%;
+}
+
+.fa {
+  margin: 10px;
+}
+
+.fa-facebook-square {
+  color: #3b5998;
+}
+
+.fa-instagram {
+  color: #ffffff;
+}
+
+.fa-youtube-play {
+  color: #c4302b;
+}
+
+.FootWrapper {
+  margin: auto;
+}
+
+.Copyright {
+  margin: auto;
+}
+
+.Copyright p {
+  margin: auto;
+  float: right;
+  color: #ffffff;
+}
+
+/*###############  APARREL  #################*/
+
+.ProductCard {
+  padding-top: 30px;
+  padding-bottom: 70px;
+}
+
+.BlacknoFold {
+  margin: auto;
+  width: 60%;
+}
+.GreynoFold {
+  margin: auto;
+  width: 60%;
+}
+.GreyFold {
+  margin: auto;
+  width: 60%;
+}
+
+/*############ MOBILE ############*/
+@media screen and (max-width: 680px) {
+  .FooterImg {
+    margin: auto;
+    display: block;
+  }
+
+  .FootWrapper {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+  }
+
+  .Copyright p {
+    margin: auto;
+    display: block;
+    float: none;
+    text-align: center;
+  }
+}
