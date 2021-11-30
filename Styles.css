@@ -41,7 +41,7 @@
 }
 
 .FooterImg {
-  width: 40%;
+  background-color: #808080;
 }
 
 .fa {
@@ -96,6 +96,24 @@
 
 /*############ MOBILE ############*/
 @media screen and (max-width: 680px) {
+  .MvpsLogo {
+    width: 30%;
+    margin: auto;
+    padding: 4px;
+  }
+
+  .NxlLogo {
+    width: 30%;
+    margin: auto;
+    padding: 6px;
+  }
+
+  .JtLogo {
+    width: 30%;
+    margin: auto;
+    padding: 4px;
+  }
+
   .FooterImg {
     margin: auto;
     display: block;
